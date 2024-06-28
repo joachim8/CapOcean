@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 16 April 2024 14h51
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8.1
+WORDPRESS:	6.5.2
+PHP INFO:	8.0.26 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:68 | filtered:0 | create:68
+FILTERED: []
+SQL CREATED: 20240416_capoceanvendee_fe1a1944ef8bf59d5646_20240416145119_database.sql
+SQL FILE SIZE: 4.36MB (4568080)
+SQL FILE TIME: 2024-04-16 14:51:31
+SQL RUNTIME: 0.80 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/CapOcean
+ARCHIVE FILE: 20240416_capoceanvendee_fe1a1944ef8bf59d5646_20240416145119_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	114.86MB
+STATS:	Dirs 884 | Files 6,070
+SQL ADDED: 20240416_capoceanvendee_fe1a1944ef8bf59d5646_20240416145119_database.sql
+ZipArchive Object
+(
+    [lastId] => 6953
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6954
+    [filename] => C:\wamp64\www\CapOcean\wp-content\backups-dup-lite\tmp\20240416_capoceanvendee_fe1a1944ef8bf59d5646_20240416145119_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6953
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 49.9MB
+ARCHIVE RUNTIME: 7.13 sec.
+MEMORY STACK: 14MB
+building installer
+TEST DE COHÉRENCE D’ARCHIVE : RÉUSSITE
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 4.36MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 51.79MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 6,954
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 6,953
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 9.22 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20240416_capoceanvendee 16 April 2024 14h51
+
